@@ -12,4 +12,8 @@ I belive great design and technological innovation can be a key part of improvin
 * 👩 Pronouns: she/her
 * ❤️ I love good design, kind people and quiet places
 
+I keep my coding motivation up by doing #100DaysOfCode- currently on second round. Follow me in Twitter 
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/helidevine)
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heliDevine"/>
