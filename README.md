@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi I'm Heli 👋 
 
-<!--
-**heliDevine/heliDevine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying at Manchester Codes full stack boot camp graduating in March 2022. 
 
-Here are some ideas to get you started:
+I belive great design and technological innovation can be a key part of improving lives and the environment. My goal is to be part of creating these products, systems and services. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 I’m currently learning javascript, react and testing, UX
+* 🤝 I’m looking to collaborate on other developers and designers
+* 🤔 I’m looking for help with how to become a better developer
+* 💬 Ask me about career change tips
+* 👩 Pronouns: she/her
+* ❤️ I love good design, kind people and quiet places
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=heliDevine"/>
