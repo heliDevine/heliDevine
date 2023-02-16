@@ -4,10 +4,10 @@ I'm a Software Engineer and Manchester Codes bootcamp graduate from September-21
 
 I belive great design and technological innovation can be a key part of improving lives and the environment. My goal is to be part of creating these products, systems and services. 
 
-* 🌱 I’m currently learning Java and SpringBoot
-* 🎛 I'm studying UX on IxDF online courses
+* 🌱 I’m currently focusing on Java and SpringBoot
+* 🎛 I'm studying UX on IxDF online courses as I'm keen to understand and implement human centric design approach to my work
 * 🤝 I’m looking to collaborate on other developers and designers
-* 🤔 I’m looking for help with how to become a better developer
+* 🤔 I’m looking for help with how to become a better engineer
 * 💬 Ask me about career change tips
 * 👩 Pronouns: she/her
 * ❤️ I love good design, kind people and quiet places
