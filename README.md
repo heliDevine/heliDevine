@@ -2,7 +2,7 @@
 
 I'm a Software Engineer and Manchester Codes bootcamp graduate from September-21 cohoort. 
 
-I belive great design and technological innovation can be a key part of improving lives and the environment. My goal is to be part of creating these products, systems and services. 
+I belive great design and new innovations can be a key part of improving lives and the environment. My goal is to be part of creating these products, systems and services. 
 
 * 🌱 I’m currently focusing on Java and SpringBoot
 * 🎛 I'm studying UX on IxDF online courses as I'm keen to understand and implement human centric design approach to my work
